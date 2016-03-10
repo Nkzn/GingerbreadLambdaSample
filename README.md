@@ -18,6 +18,11 @@ My environment,
 * Android SDK Platform-tools 24.0.0 rc1
 * Android SDK Build-tools 24.0.0 rc1
 
+Screenshot
+----------
+
+![screenshot](img/ss.png)
+
 LICENSE
 ----------
 
